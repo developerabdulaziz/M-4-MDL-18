@@ -4,9 +4,11 @@ var favouriteBook = '4 hour work week';
 
 // array
 var bookList = ['positioning', 'hooked', 'start with why', 'shoe dog'];
+
 // shoe dog koi nmbr position ase
 var shoeDogIndex = bookList.indexOf('shoe dog');
 console.log(shoeDogIndex);
+
 // booklist a dori 3 nmbr position change korbo
 bookList[3] = 'Story Brand';
 console.log(bookList);
